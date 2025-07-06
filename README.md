@@ -27,27 +27,6 @@ A simple yet powerful web-based tool designed to help users create stronger, mor
 You can try out the live demo directly on GitHub Pages:
 
 [**👉 Live Demo: Your GitHub Pages Link Here 👈**](https://ai-r00t.github.io/PasswordStrengthChecker/)
-*(Remember to replace `yourusername.github.io/password-strength-checker/` with your actual live link after deployment!)*
-
----
-
-## 🛠️ Installation & Local Setup
-
-If you want to run this project locally or contribute:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YourUsername/password-strength-checker.git](https://github.com/YourUsername/password-strength-checker.git)
-    ```
-    *(Replace `YourUsername` with your actual GitHub username)*
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd password-strength-checker
-    ```
-
-3.  **Open `index.html`:**
-    Simply open the `index.html` file in your preferred web browser.
 
 ---
 
