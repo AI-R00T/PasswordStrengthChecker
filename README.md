@@ -26,7 +26,7 @@ A simple yet powerful web-based tool designed to help users create stronger, mor
 
 You can try out the live demo directly on GitHub Pages:
 
-[**👉 Live Demo: Your GitHub Pages Link Here 👈**](https://yourusername.github.io/password-strength-checker/)
+[**👉 Live Demo: Your GitHub Pages Link Here 👈**](https://ai-r00t.github.io/PasswordStrengthChecker/)
 *(Remember to replace `yourusername.github.io/password-strength-checker/` with your actual live link after deployment!)*
 
 ---
